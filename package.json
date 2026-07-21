@@ -1,0 +1,21 @@
+{
+  "name": "handover-ax",
+  "version": "1.0.0",
+  "description": "EMR 기반 AI 1초 요약으로 간호사의 인수인계 업무를 혁신하는 AX 솔루션",
+  "main": "index.html",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {},
+  "keywords": [
+    "handover",
+    "nurse",
+    "hospital",
+    "sbar",
+    "emr",
+    "ai"
+  ],
+  "author": "",
+  "license": "ISC"
+}
